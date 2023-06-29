@@ -13,6 +13,7 @@
 body {
   background: #2563eb url("./asset/bg.svg") center/cover no-repeat fixed;
   font: 1em/1.618 Mulish, sans-serif;
+  margin: 0 1rem 0 1rem;
 }
 
 .mybd {
